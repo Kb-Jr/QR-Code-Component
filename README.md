@@ -20,8 +20,8 @@ This is a sample design for a QR-code component. It was built using HTML and CSS
 
 ### Screenshot
 
-![](./screenshot_desktop.png)
-![](./screenshot_mobile.png)
+![Desktop Screenshot](./screenshot_desktop.png)
+![Mobile Screenshot](./screenshot_mobile.png)
 
 
 ### Links
